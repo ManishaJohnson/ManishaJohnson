@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Django Fullstack Deployment](https://github.com/ManishaJohnson/vigilance)
 - 🌱 I’m currently learning System Design.
 - 👯 I’m looking to collaborate on Open Projects.
-- 💬 Ask me about important sunscreen is?
+- 💬 Ask me about the importance of sunscreen?
 - 😄 Pronouns: She/Her
 
 ### Programming Languages I've worked with
