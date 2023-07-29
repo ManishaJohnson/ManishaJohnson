@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manisha</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Check out ==> <a href="https://manishajohnson.github.io/">My Portfolio</a></h3>
 <p align="center">
     <a href="https://drive.google.com/drive/folders/1jsv4ftfI9ArNMkn9pY4rgpmirTj0YDB7?usp=drive_link"><img src="https://img.shields.io/badge/-Resume-2A52BE?style=for-the-badge" alt="Resume"></a>
     <a href="mailto:h20220281p@pilani.bits-pilani.ac.in"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -8,10 +8,10 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on [Django Project](https://github.com/ChiragKalra/DustIt)
+- 🔭 I’m currently working on [Django Fullstack Deployment](https://github.com/ManishaJohnson/vigilance)
 - 🌱 I’m currently learning System Design.
 - 👯 I’m looking to collaborate on Open Projects.
-- 💬 Ask me about how important is sunscreen.
+- 💬 Ask me about important sunscreen is?
 - 😄 Pronouns: She/Her
 
 ### Programming Languages I've worked with
@@ -64,19 +64,38 @@
   <table>
     <thead align="center">
       <tr border: none;>
-        <td><b>💻 Name</b></td>
+        <td><b>💻 Github Repo</b></td>
         <td><b>🌟 Description</b></td>
-        <td><b>👨‍💻 Language</b></td>
+        <td><b>🔗 Its Deployed!</b></td>
       </tr>
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/"><b>Title1</b></a></td>
-        <td>About</td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ManishaJohnson/Vigilance?style=flat-square"/></td>
+	      <td><a href="https://github.com/ManishaJohnson/ManishaJohnson.github.io"><b>Portfolio V2</b></a></td>
+        <td>Using Bootstrap</td>
+        <td><a href="https://manishajohnson.github.io/">Click Here!</a></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/ManishaJohnson/vigilance"><b>Vigilance</b></a></td>
+        <td>Identify crimes around indian districts and capture in maps (Read the ReadMe)</td>
+        <td><a href="https://manishajohnson.github.io/">Click Here!</a></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/ManishaJohnson/OnlineDukaanWebsite"><b>SpringMVC Project</b></a></td>
+        <td>Online business/consumer Website targeting indian local shop</td>
+        <td>--</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/ManishaJohnson/counterApp"><b>Counter App</b></a></td>
+        <td>Good Documentation for Django-Vercel deployment</td>
+        <td><a href="https://counterapp-2lr7bu5oa-manishajohnson.vercel.app/">Click Here!</a></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/"><b>Yellow Pages</b></a></td>
+        <td>Step to deploy on vercel using Postgre</td>
+        <td>--</td>
       </tr>
   </tablei>
   <br />
 </details>
-
 
