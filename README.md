@@ -11,14 +11,14 @@
 - 🔭 I’m currently working on [Django Fullstack Deployment](https://github.com/ManishaJohnson/vigilance)
 - 🌱 I’m currently learning System Design.
 - 👯 I’m looking to collaborate on Open Projects.
-- 💬 Ask me about the importance of sunscreen? And any projects on this github repo!
-- 😄 Pronouns: She/Her
+- 💬 Ask me about any projects on this github repo! And the importance of applying sunscreen daily.  
 
 ### Programming Languages I've worked with
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![Html](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
