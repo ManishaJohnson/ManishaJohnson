@@ -23,7 +23,8 @@
 ![Html](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
-I'm comfortable with Linus OS
+
+I'm comfortable with Linux OS
 
 ### Technologies I've worked With
 
