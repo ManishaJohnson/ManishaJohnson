@@ -8,8 +8,8 @@
 </p>
 <br>
 
-- 🔭 I’m currently working on [Django Fullstack Deployment](https://github.com/ManishaJohnson/vigilance)
-- 🌱 I’m currently learning System Design.
+- 🔭 I’m currently working on [Inference and Deployment of Generative AI applications](https://github.com/ManishaJohnson/sentiment-analysis-docker)
+- 🌱 I’m currently learning System Design and GenAI concepts.
 - 👯 I’m looking to collaborate on Open Projects.
 - 💬 Ask me about any projects on this github repo! And the importance of applying sunscreen daily.  
 
@@ -23,7 +23,7 @@
 ![Html](https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
 ![JS](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=JavaScript)
-
+I'm comfortable with Linus OS
 
 ### Technologies I've worked With
 
